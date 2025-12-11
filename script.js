@@ -1,8 +1,8 @@
 // EmailJS Configuration - Replace with your actual EmailJS credentials
 const EMAILJS_CONFIG = {
-    serviceId: 'YOUR_SERVICE_ID',    // Replace with your EmailJS service ID
-    templateId: 'YOUR_TEMPLATE_ID',  // Replace with your EmailJS template ID
-    userId: 'YOUR_USER_ID'           // Replace with your EmailJS user ID
+    serviceId: 'service_abbritq',    // Replace with your EmailJS service ID
+    templateId: 'template_05t293h',  // Replace with your EmailJS template ID
+    userId: 'T4gkHPEAW3YSqF9ly'           // Replace with your EmailJS user ID
 };
 
 // Initialize EmailJS
