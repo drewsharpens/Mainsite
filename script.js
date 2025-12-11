@@ -1,8 +1,8 @@
-// EmailJS Configuration - Replace with your actual EmailJS credentials
+// EmailJS Configuration - Drew's actual credentials
 const EMAILJS_CONFIG = {
-    serviceId: 'service_abbritq',    // Replace with your EmailJS service ID
-    templateId: 'template_05t293h',  // Replace with your EmailJS template ID
-    userId: 'T4gkHPEAW3YSqF9ly'           // Replace with your EmailJS user ID
+    serviceId: 'service_abbritq',    // Drew's EmailJS service ID
+    templateId: 'template_05t293h',  // Drew's EmailJS template ID
+    userId: 'T4gkHPEAW3YSqF9ly'      // Drew's EmailJS user ID (Public Key)
 };
 
 // Initialize EmailJS
